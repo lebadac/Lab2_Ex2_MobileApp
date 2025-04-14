@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#6200EE</color> <!-- Primary Purple -->
+    <color name="teal">#03DAC5</color> <!-- Teal Color -->
+    <color name="background_color">#F3F4F6</color> <!-- Background Color -->
+    <color name="black">#333333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="button_start">#2193b0</color> <!-- Gradient Start -->
+    <color name="button_end">#6dd5ed</color> <!-- Gradient End -->
+</resources>

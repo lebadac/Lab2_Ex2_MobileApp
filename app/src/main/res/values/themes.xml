@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Defines the primary color scheme of the application -->
+        <item name="colorPrimary">@color/button_start</item>
+        <item name="colorPrimaryVariant">@color/button_end</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Sets the default background color of the entire app -->
+        <item name="android:windowBackground">@color/background_color</item>
+
+        <!-- Defines the default text color used in the app -->
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+
+</resources>
